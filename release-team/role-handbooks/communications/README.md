@@ -84,7 +84,7 @@ This is a general example of what a release cycle might look like and the order 
         <li>The current release cycle's Communications Lead & Comms Shadows
         <li>SIG Release Chairs 
         </ul></ul>
-        <p><a href="https://git.k8s.io/k8s.io/groups/groups.yaml">Membership</a> for this group is defined in <a href="https://git.k8s.io/k8s.io">kubernetes/k8s.io</a>.</p>
+        <p>Submit a PR modifying <a href="https://git.k8s.io/k8s.io/groups/groups.yaml">this document</a> with the current release cycle's RT Lead, Comms Lead, and their respective shadows. The membership for this group is defined in <a href="https://git.k8s.io/k8s.io">kubernetes/k8s.io</a>.
         <ul>
         <li>Organize a meeting with the SIG leads to align on the communications timeline and support for writing features posts
         </ul>
